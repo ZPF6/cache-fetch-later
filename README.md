@@ -1,6 +1,6 @@
 **使用方法：**
 
-这个版本在gitee上面维护。
+这个项目在gitee上面维护。
 
 https://gitee.com/fufu669/cache-fetch-later
 
